@@ -1,0 +1,12 @@
+! nicholas's Xresources
+
+URxvt.reverseVideo: True
+URxvt.font: xft:FreeMono:size=12
+URxvt.scrollBar: False
+URxvt.cursorBlink: True
+URxvt.letterSpace: -1
+
+XTerm.vt100.locale: True
+XTerm.vt100.reverseVideo: True
+XTerm.vt100.faceName: FreeMono :size=10:antialias=true
+!XTerm.vt100.font: 7x13

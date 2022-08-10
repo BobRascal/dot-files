@@ -1,0 +1,6 @@
+configuration {
+	modi: "window,run,ssh";
+	font: "OCR A Std 10";
+	location: 2;
+}
+@theme "mytheme"

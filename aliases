@@ -1,0 +1,12 @@
+#!/bin/bash
+
+alias vi="vim"
+alias ll="ls -l"
+alias la="ls -a"
+alias py="python3"
+alias gr="grep"
+alias please="sudo"
+alias uprc="source $HOME/.bashrc"
+alias down-now="su root -c \"shutdown -h now\""
+alias sys-info="neofetch --colors 0 1 2 3 4 5"
+alias tmodload="/home/nicholas/.local/share/Steam/steamapps/common/tModLoader/tModLoader"
